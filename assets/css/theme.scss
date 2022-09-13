@@ -17,11 +17,19 @@ $white: #FFFFFFff;
 
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap');
+
 
 /* add additional CSS rules below */
 html {
     scroll-behavior: smooth;
   }
+
+#title {
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+    color: #2E3094;
+}
   
 body {
     background:$white;
@@ -35,7 +43,7 @@ body {
     
 }
 .serif-font {
-    font-family:Arial Rounded MT Bold;
+    font-family: 'Nunito', sans-serif;
 }
 @media (max-width: 1366px) {
     .container-xl, .container-lg, .container-md, .container-sm, .container {
@@ -143,7 +151,7 @@ small, .small {
 ================================================== */
 .hero {
     background: #F585B3;
-    padding: 5rem 5rem;
+    //padding: 5rem 5rem;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -174,6 +182,7 @@ small, .small {
 
 .hero h1 {
     font-size:2.5em;
+    color: white;
 }
 .section-title h2 {
 	font-weight:700;
@@ -333,6 +342,9 @@ blockquote {
 .featured-image {
     display: block;
     margin-bottom: 2rem;
+    height: 20em;
+    width: 100%;
+    object-fit: cover;
 }
 
 .full-width {

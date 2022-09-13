@@ -7,7 +7,7 @@ logo: 'assets/images/vow-logo.jpeg'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
-disqus: 'demowebsite'
+disqus: ''
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -20,7 +20,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: G-CB78JLNGJP
 
 # Authors
 authors:
