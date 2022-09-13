@@ -3,7 +3,7 @@ email: wowthemesnet@gmail.com
 timezone: UTC
 baseurl: "https://volunteers-on-wheels.github.io/vow-website/"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/vow-logo.jpeg'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
