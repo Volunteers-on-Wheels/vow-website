@@ -6,6 +6,13 @@
 $green:   #08a057 !default;
 $blue:    #3d61fd !default;
 
+/* Theme */
+$blue-pigment: #2E3094ff;
+$dark-blue-gray: #756FACff;
+$deep-cerise: #E9068Eff;
+$tickle-me-pink: #F585B3ff;
+$white: #FFFFFFff;
+
 @import 'bootstrap/bootstrap';
 
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
@@ -17,7 +24,7 @@ html {
   }
   
 body {
-    background:#fff;
+    background:$white;
     font-size:17px;
     transition: all 200ms linear;
     font-family: "PT Sans",sans-serif;
@@ -28,7 +35,7 @@ body {
     
 }
 .serif-font {
-    font-family:PT Serif;
+    font-family:Arial Rounded MT Bold;
 }
 @media (max-width: 1366px) {
     .container-xl, .container-lg, .container-md, .container-sm, .container {
@@ -135,7 +142,7 @@ small, .small {
 /* Pages
 ================================================== */
 .hero {
-    background: #fdd93d;
+    background: #F585B3;
     padding: 5rem 5rem;
 }
 
@@ -389,6 +396,10 @@ ul.tags li a:hover {
 	margin-bottom:1.2rem;
 }
 
+.btn-dark {
+    background-color: $blue-pigment;
+    border: $blue-pigment;
+}
 
 .btn.follow {
 	border-color:#ccc;

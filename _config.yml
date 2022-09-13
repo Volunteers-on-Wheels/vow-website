@@ -1,7 +1,7 @@
 title: "Volunteers on Wheels"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "https://volunteers-on-wheels.github.io/vow-website/"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/vow-logo.jpeg'
 favicon: 'assets/images/favicon.ico'
@@ -43,9 +43,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/volunteersonwheels
+  facebook: https://www.facebook.com/groups/263700395180167
+  twitter: https://twitter.com/volunteersonwheels
 
 # Plugins
 plugins: 
