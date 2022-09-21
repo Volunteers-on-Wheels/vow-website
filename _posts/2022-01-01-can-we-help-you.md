@@ -5,4 +5,10 @@ author:
 
 image: assets/images/full_van.jpg
 ---
-This page will tell you how we could help you.
+VoW is here to support all types of charitable organisations. 
+
+* Examples of types of organisations we support
+* No task to big or too small?
+* Area of operation
+
+If you need help moving things around, <a href="{{site.baseurl}}/contact">get in touch</a>!
