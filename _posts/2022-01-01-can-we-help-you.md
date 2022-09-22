@@ -5,10 +5,7 @@ author:
 
 image: assets/images/full_van.jpg
 ---
-VoW is here to support all types of charitable organisations. 
 
-* Examples of types of organisations we support
-* No task to big or too small?
-* Area of operation
+Volunteers on Wheels has a van available running five days per week. We primarily focus on bulk collections and deliveries on behalf of food banks in and around North London and South Hertfordshire.
 
-If you need help moving things around, <a href="{{site.baseurl}}/contact">get in touch</a>!
+If you are a food bank or other charitable organsation, please  <a href="{{site.baseurl}}/contact">get in touch</a> to see how we can help!
