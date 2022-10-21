@@ -1,10 +1,10 @@
 title: "Volunteers on Wheels"
-email: wowthemesnet@gmail.com
+email: adamr@volunteersonwheels.org.uk
 timezone: UTC
 baseurl: "/"
 permalink: "/:title/"
-logo: 'assets/images/vow-logo.jpeg'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/vow-logo-only.svg'
+favicon: 'assets/images/vow-logo-only.svg'
 author: Sal
 paginate: 30
 disqus: ''

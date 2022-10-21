@@ -7,10 +7,11 @@ $green:   #08a057 !default;
 $blue:    #3d61fd !default;
 
 /* Theme */
-$blue-pigment: #2E3094ff;
-$dark-blue-gray: #756FACff;
-$deep-cerise: #E9068Eff;
-$tickle-me-pink: #f585b3;
+$blue-pigment: rgb(0,111,199);
+$dark-blue-gray: rgb(0, 255, 102);
+$deep-cerise: rgb(215,56,117);
+$tickle-me-pink: rgb(251,136,163);
+$charcoal: rgb(87,87,87);
 $white: #FFFFFFff;
 
 @import 'bootstrap/bootstrap';
@@ -36,7 +37,7 @@ html {
 #title {
     font-family: "Nunito", sans-serif;
     font-weight: 700;
-    color: #2E3094;
+    color: $blue-pigment;
 }
   
 body {
@@ -45,7 +46,7 @@ body {
     transition: all 200ms linear;
     font-family: "PT Sans",sans-serif;
     line-height:1.7;
-    color: #333;
+    color: $charcoal;
     overflow-x:hidden;
     padding-top:116px;
     
@@ -62,7 +63,7 @@ body {
 }
 main {min-height:500px;}
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, .navbar-light .navbar-brand, .text-dark, .dropdown-item {
-    color: #000;
+    color: $charcoal;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight:600;
@@ -158,7 +159,7 @@ small, .small {
 /* Pages
 ================================================== */
 .hero {
-    background: #F585B3;
+    background: $tickle-me-pink;
     //padding: 5rem 5rem;
 }
 
