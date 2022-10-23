@@ -4,7 +4,7 @@ title: About
 permalink: "/about/"
 image: assets/images/vow-tshirts.jpeg
 ---
-Started in 2020, Volunteers on Wheels (VoW) works to redistribute surplus supplies to food banks. We see first-hand that the demand on food banks continues to rise as more and more people look to them for support. We would rather there wasn't a need for food banks, but we're determined to continue to support them to the best of our ability.
+Sstarted in 2020, Volunteers on Wheels (VoW) works to redistribute surplus supplies to food banks. We see first-hand that the demand on food banks continues to rise as more and more people look to them for support. We would rather there wasn't a need for food banks, but we're determined to continue to support them to the best of our ability.
 
 ### Our Objectives
 
