@@ -11,7 +11,7 @@ topmenu:
   url: "contact/"
 
 - title: Make a donation
-  url: https://wonderful.co.uk/
+  url: "make-a-donation/"
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 

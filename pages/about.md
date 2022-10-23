@@ -32,10 +32,11 @@ In early 2022, we received an award from the Mayor of Barnet Council for Outstan
 
 ### Our Trustees
 ##### Marcus Ardeman
-Text goes here.
+From the beginning of my teenage years I started helping out with various charities and jumped at the chance to be involved with Volunteers on Wheels.
+Wife and 2 teens, eldest just finished 1st year of university and am proud of the time she has helped with our organisation.
 ##### Mary McDonagh
-Text goes here.
-##### Peter Phillips
-Text goes here.
+Whilst I did some volunteering in my early 20’s it was being furloughed during the pandemic that gave me the inspiration to do some more. Delivering food to vulnerable people and being involved with various aspects of food banks is very rewarding. 
+##### Peter Phillips (Chair and Founder)
+Father of 2 plus dog. Retired chartered surveyor. Former trustee of large U.K. disability charity and currently trustee of small family charity, and another charitable trust. 
 ##### Gary Weinstein
-Text goes here.
+Actively involved with Jewish community organisations since my childhood. Former board member for my local synagogue. Volunteer with the Ambulance Wish Foundation UK. Husband to Melanie; father of 4 children and grandfather to 4 grandsons.
