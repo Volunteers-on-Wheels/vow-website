@@ -10,7 +10,7 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-- title: Make a donatioon
+- title: Make a donation
   url: "make-a-donation/"
   class: "ml-2 btn btn-dark text-white px-3"
 
