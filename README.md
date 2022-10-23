@@ -11,3 +11,7 @@ jekyll serve --watch --baseurl="/vow-website"
 ```
 
 Site based on the [Affiliates Jekyll Theme](https://wowthemesnet.github.io/affiliates-jekyll-theme/) 
+
+
+# Any issues?
+Raise an issue! 
