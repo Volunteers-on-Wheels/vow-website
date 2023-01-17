@@ -66,6 +66,16 @@ body {
         padding:0 25px;
     }
 }
+
+@media (max-width: 600px) {
+    .container-xl, .container-lg, .container-md, .container-sm, .container {
+        width:100%;
+        max-width:100%;
+        padding:0 0px;
+    }
+}
+
+
 main {min-height:500px;}
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, .navbar-light .navbar-brand, .text-dark, .dropdown-item {
     color: $charcoal;
