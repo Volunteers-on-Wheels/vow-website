@@ -9,13 +9,16 @@ There are multiple ways to support our critical work:
 ## Donate online!
 Consider making a donation to Volunteers on Wheels. The charity is entirely run by volunteers - 100% of your donation will go towards supporting our vital work. If you are a UK tax payer, don't forget to opt in for Gift Aid. This means we can claim an additional 25% on top of your donation.
 
+<!-- ⏳ We're just getting set up with JustGiving and expect to go live in February 2022. In the mean time, please contact us if you'd like to make a donation. -->
+You'll find us on JustGiving from February 2023. In the mean time, please <a href = "/contact">contact us</a> to make a donation!
 
-Click <a href="">here</a> to donate to VoW via JustGiving!
+<!--Click <a href="">here</a> to donate to VoW via JustGiving!-->
 
 ## Fundraise online!
 Running a marathon? Organising a bake sale? Planning a sponsored silence? Set up your online fundraising page and encouarage your friends and family to sponsor you. 
 
-Click <a href="">here</a> to set up your fundraising page via JustGiving!
+You'll find us on JustGiving from February 2023. In the mean time, please <a href = "/contact">contact us</a> if you're thinking of fundraising for VoW.
+<!-- Click <a href="">here</a> to set up your fundraising page via JustGiving! <span class="badge badge-pill badge-primary">Primary</span> -->
 
 ## Donate while you shop!
 Instead of going to Amazon.co.uk to do your online shopping, visit <a href="smile.amazon.co.uk">smile.amazon.co.uk</a> and select Volunteers on Wheels as your nominated charity. We then receive a small commission of each purchase you make via smile.amazon.co.uk. We recommend installing a browser plugin to automatically redirect you to the Amazon Smile site whenever you make a purchase via Amazon:
