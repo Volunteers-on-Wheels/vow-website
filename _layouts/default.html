@@ -6,8 +6,15 @@
 <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
 
 <title>{{ page.title }} | {{site.title}}</title>
+<meta property="og:title" content="{{ page.title }} | {{site.title}}" />
+<meta property="og:locale" content="en_gb" />
+<meta property="og:site_name" content="{{site.title}}" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="{{ page.title }} | {{site.title}}" />
+<script type="application/ld+json">
 
-{% seo %}
+
 
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 
