@@ -12,13 +12,13 @@ Consider making a donation to Volunteers on Wheels. The charity is entirely run 
 <!-- ⏳ We're just getting set up with JustGiving and expect to go live in February 2022. In the mean time, please contact us if you'd like to make a donation. -->
 You'll find us on JustGiving from February 2023. In the mean time, please <a href = "/contact">contact us</a> to make a donation!
 
-<!--Click <a href="">here</a> to donate to VoW via JustGiving!-->
+<!--Click <a href="{{site.baseurl}}/donate/">here</a> to donate to VoW via JustGiving!-->
 
 ## Fundraise online!
 Running a marathon? Organising a bake sale? Planning a sponsored silence? Set up your online fundraising page and encouarage your friends and family to sponsor you. 
 
 You'll find us on JustGiving from February 2023. In the mean time, please <a href = "/contact">contact us</a> if you're thinking of fundraising for VoW.
-<!-- Click <a href="">here</a> to set up your fundraising page via JustGiving! <span class="badge badge-pill badge-primary">Primary</span> -->
+<!-- Click <a href="{{site.baseurl}}/fundraise/">here</a> to set up your fundraising page via JustGiving! <span class="badge badge-pill badge-primary">Primary</span> -->
 
 ## Volunteer with us!
 Could you join our delivery team out on the road? Click <a href="{{site.baseurl}}/volunteer-with-us/">here</a> to read more about how to get involved!
