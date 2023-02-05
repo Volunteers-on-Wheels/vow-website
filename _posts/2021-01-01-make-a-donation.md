@@ -20,6 +20,9 @@ Running a marathon? Organising a bake sale? Planning a sponsored silence? Set up
 You'll find us on JustGiving from February 2023. In the mean time, please <a href = "/contact">contact us</a> if you're thinking of fundraising for VoW.
 <!-- Click <a href="">here</a> to set up your fundraising page via JustGiving! <span class="badge badge-pill badge-primary">Primary</span> -->
 
+## Volunteer with us!
+Could you join our delivery team out on the road? Click <a href="{{site.baseurl}}/volunteer-with-us/">here</a> to read more about how to get involved!
+
 ## Donate while you shop!
 Instead of going to Amazon.co.uk to do your online shopping, visit <a href="smile.amazon.co.uk">smile.amazon.co.uk</a> and select Volunteers on Wheels as your nominated charity. We then receive a small commission of each purchase you make via smile.amazon.co.uk. We recommend installing a browser plugin to automatically redirect you to the Amazon Smile site whenever you make a purchase via Amazon:
 * Google Chrome: <a href="https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf?hl=en">Smile Always</a>
@@ -28,3 +31,5 @@ Instead of going to Amazon.co.uk to do your online shopping, visit <a href="smil
 * Microsoft Edge: <a href="https://microsoftedge.microsoft.com/addons/detail/amazon-smile-redirect/ojfbbnlijdmckaehmhlnjgmpnbhjjibn">Amazon Smile Redirect</a>
 
 <b>Mobile App user?</b> Make sure you enable Amazon Smile donations from the settings within the Amazon App. Read more <a href="https://smile.amazon.co.uk/b?ie=UTF8&node=17337655031&sa-no-redirect=1">here</a>. 
+
+*Amazon has announced that they will be terminating the Amazon Smile program on **20th February 2023**. So make sure you get those big purchases in before then!*
