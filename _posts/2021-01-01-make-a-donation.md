@@ -10,26 +10,15 @@ There are multiple ways to support our critical work:
 Consider making a donation to Volunteers on Wheels. The charity is entirely run by volunteers - 100% of your donation will go towards supporting our vital work. If you are a UK tax payer, don't forget to opt in for Gift Aid. This means we can claim an additional 25% on top of your donation.
 
 <!-- ⏳ We're just getting set up with JustGiving and expect to go live in February 2022. In the mean time, please contact us if you'd like to make a donation. -->
-You'll find us on JustGiving from February 2023. In the mean time, please <a href = "/contact">contact us</a> to make a donation!
+We're currently waiting for our Gift Aid registration to be processed, which should be complete by April 2023. In the mean time, please <a href = "/contact">contact us</a> to make a donation!
 
 <!--Click <a href="{{site.baseurl}}/donate/">here</a> to donate to VoW via JustGiving!-->
 
 ## Fundraise online!
 Running a marathon? Organising a bake sale? Planning a sponsored silence? Set up your online fundraising page and encouarage your friends and family to sponsor you. 
 
-You'll find us on JustGiving from February 2023. In the mean time, please <a href = "/contact">contact us</a> if you're thinking of fundraising for VoW.
+We're currently waiting for our Gift Aid registration to be processed, which should be complete by April 2023. In the mean time, please <a href = "/contact">contact us</a> if you're thinking of fundraising for VoW.
 <!-- Click <a href="{{site.baseurl}}/fundraise/">here</a> to set up your fundraising page via JustGiving! <span class="badge badge-pill badge-primary">Primary</span> -->
 
 ## Volunteer with us!
 Could you join our delivery team out on the road? Click <a href="{{site.baseurl}}/volunteer-with-us/">here</a> to read more about how to get involved!
-
-## Donate while you shop!
-Instead of going to Amazon.co.uk to do your online shopping, visit <a href="smile.amazon.co.uk">smile.amazon.co.uk</a> and select Volunteers on Wheels as your nominated charity. We then receive a small commission of each purchase you make via smile.amazon.co.uk. We recommend installing a browser plugin to automatically redirect you to the Amazon Smile site whenever you make a purchase via Amazon:
-* Google Chrome: <a href="https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf?hl=en">Smile Always</a>
-* Safari: <a href="https://apps.apple.com/us/app/smileallday/id1180442868?mt=12">SmileAllDay</a>
-* Firefox: <a href="https://addons.mozilla.org/en-GB/firefox/addon/amazon_smile_redirect/reviews/">Amazon Smile Redirect</a>
-* Microsoft Edge: <a href="https://microsoftedge.microsoft.com/addons/detail/amazon-smile-redirect/ojfbbnlijdmckaehmhlnjgmpnbhjjibn">Amazon Smile Redirect</a>
-
-<b>Mobile App user?</b> Make sure you enable Amazon Smile donations from the settings within the Amazon App. Read more <a href="https://smile.amazon.co.uk/b?ie=UTF8&node=17337655031&sa-no-redirect=1">here</a>. 
-
-*Amazon has announced that they will be terminating the Amazon Smile program on **20th February 2023**. So make sure you get those big purchases in before then!*
