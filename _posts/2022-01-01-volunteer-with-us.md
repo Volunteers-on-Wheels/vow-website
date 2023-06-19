@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Volunteer with us!"
+permalink: /volunteer
 
 image: assets/images/thumbs_up.jpg
 ---

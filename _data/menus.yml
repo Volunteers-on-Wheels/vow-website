@@ -11,7 +11,7 @@ topmenu:
   url: "contact/"
 
 - title: Make a donation
-  url: "make-a-donation/"
+  url: "support-us/"
   class: "ml-2 btn btn-dark text-white px-3"
 
 # Footer Menu
