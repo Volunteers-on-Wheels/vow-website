@@ -22,4 +22,4 @@ We're currently waiting for our Gift Aid registration to be processed, which sho
 <!-- Click <a href="{{site.baseurl}}/fundraise/">here</a> to set up your fundraising page via JustGiving! <span class="badge badge-pill badge-primary">Primary</span> -->
 
 ## Volunteer with us!
-Could you join our delivery team out on the road? Click <a href="{{site.baseurl}}/volunteer/">here</a> to read more about how to get involved!
+Could you join our delivery team out on the road? Click <a href="{{site.baseurl}}/volunteer">here</a> to read more about how to get involved!
