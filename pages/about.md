@@ -4,7 +4,7 @@ title: About
 permalink: "/about/"
 image: assets/images/vow-tshirts.jpeg
 ---
-We are a charity organization that was founded in 2020 with the mission to redistribute surplus supplies to food banks and help combat food poverty and insecurity. We believe that no one should have to go hungry and we are committed to doing our part to make sure that everyone has access to the essentials they need.
+We are a charity organisation that was founded in 2020 with the mission to redistribute surplus supplies to food banks and help combat food poverty and insecurity. We believe that no one should have to go hungry and we are committed to doing our part to make sure that everyone has access to the essentials they need.
 
 ### Our Objectives
 
