@@ -24,7 +24,7 @@ We're currently waiting for our Gift Aid registration to be processed, which sho
 ## Raise money whilst you shop online!
 We're registered with easyfundraising.org.uk - which makes it easy for you to raise money for VoW whilst you do your usual shopping online! Just register with easyfundraising, install the 'donation reminder' app and then whenever you shop with one of thousands of retailers VoW will earn a small commission.
 
-Click <a href = "https://www.easyfundraising.org.uk/causes/volunteers-on-wheels/">here</a> to start fundraising whilst you shop.
+Click <a href = "https://join.easyfundraising.org.uk/volunteers-on-wheels/6v5xwh/s2s/yrJjdbBK/R3002/facebook/">here</a> to start fundraising whilst you shop.
 
 ## Volunteer with us!
 Could you join our delivery team out on the road? Click <a href="{{site.baseurl}}/volunteer">here</a> to read more about how to get involved!
