@@ -13,13 +13,13 @@ Consider making a donation to Volunteers on Wheels. The charity is entirely run 
 <!-- ⏳ We're just getting set up with JustGiving and expect to go live in February 2022. In the mean time, please contact us if you'd like to make a donation. -->
 <!-- We're currently waiting for our Gift Aid registration to be processed, which should be complete by September 2023. In the mean time, please <a href = "/contact">contact us</a> to make a donation! -->
 
-Click <a href="{{site.baseurl}}/donate/">here</a> to donate to VoW via JustGiving!
+Click <a href="{{site.baseurl}}/donate/" target="_blank">here</a> to donate to VoW via JustGiving!
 
 ## Fundraise for us!
 Running a marathon? Organising a bake sale? Planning a sponsored silence? Set up your online fundraising page and encouarage your friends and family to sponsor you. 
 
 <!-- We're currently waiting for our Gift Aid registration to be processed, which should be complete by September 2023. In the mean time, please <a href = "/contact">contact us</a> if you're thinking of fundraising for VoW. -->
-Click <a href="{{site.baseurl}}/fundraise/">here</a> to set up your fundraising page via JustGiving!
+Click <a href="{{site.baseurl}}/fundraise/" target="_blank">here</a> to set up your fundraising page via JustGiving!
 
 ## Raise money whilst you shop online!
 We're registered with easyfundraising.org.uk - which makes it easy for you to raise money for VoW whilst you do your usual shopping online! Just register with easyfundraising, install the 'donation reminder' app and then whenever you shop with one of thousands of retailers VoW will earn a small commission.
