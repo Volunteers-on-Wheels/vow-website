@@ -4,9 +4,14 @@ title: Contact
 permalink: "/contact/"
 comments: false
 ---
-
+<script>
+window.onbeforeunload = () => {
+    for(const form of document.getElementsByTagName('form')) {
+      form.reset();
+    }
+  }</script>
 <form action="https://formspree.io/xrgdkkay" method="POST">    
-<p class="mb-4">To get in touch with us, please use the form below. We'll get back to you as soon as we can(new)!</p>
+<p class="mb-4">To get in touch with us, please use the form below. We'll get back to you as soon as we can!</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>
