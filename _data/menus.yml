@@ -10,6 +10,9 @@ topmenu:
 - title: Contact
   url: "contact/"
 
+- title: Rota
+  url: "rota"
+
 - title: Make a donation
   url: "support-us"
   class: "ml-2 btn btn-dark text-white px-3"
