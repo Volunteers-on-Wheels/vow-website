@@ -159,6 +159,7 @@ small, .small {
     margin-left: 15px;
 }
 
+
 /* Sidebar
 ================================================== */
 .sidebar.sticky-top {
@@ -351,7 +352,7 @@ span.post-name a,span.post-read-more a:hover {
         text-decoration:none;
     }
     img, iframe {
-        border-radius: 0.25rem !important;
+        border-radius: 1.5rem !important;
     }
 }
 
@@ -391,6 +392,9 @@ blockquote {
 	}
 }
 
+.rounded {
+    border-radius:1.5rem !important; 
+}
 
 .card {	
     border:0;
@@ -657,6 +661,129 @@ span.navigation:before {
 }
 
 .hover-opacity:hover {
-    transition: all.3s;
+    transition: all .3s;
     opacity:.8;
+}
+
+.hero-modern {
+  min-height: 650px;
+  border-radius: 1.5rem;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 3.5rem;
+}
+.hero-modern .hero-bg {
+  position: absolute;
+  inset: 0;
+  background: url('{{site.baseurl}}/assets/images/two-vow-vans.jpg') center/cover no-repeat;
+  z-index: 1;
+  border-radius: 1.5rem;
+  /* Washed out effect */
+  filter: brightness(0.85) grayscale(0.15);
+}
+.hero-modern .hero-bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(251,136,163, 0.35);
+  border-radius: 1.5rem;
+  z-index: 2;
+  pointer-events: none;
+}
+.hero-modern .hero-gradient-content {
+  position: absolute;
+  left: 2.5rem;
+  bottom: 2.5rem;
+  background: linear-gradient(to top, rgba(0,111,199,0.92) 0%, $tickle-me-pink 100%);
+  color: #fff;
+  z-index: 2;
+  border-radius: 1.2rem;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.22), 0 2px 8px rgba(0,0,0,0.10);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 2.5rem 3rem 2rem 3rem;
+  min-width: 320px;
+  max-width: 700px;
+  width: 90%;
+}
+.hero-modern .hero-gradient-content h1 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.1;
+  margin-bottom: 1.1rem;
+  text-align: left;
+  color: #fff;
+}
+.hero-modern .hero-gradient-content h1 .highlight {
+  background: $deep-cerise;
+  color: #fff;
+  font-weight: 900;
+//   border-radius: 0.25em;
+  padding: 0.1em 0.2em;
+  margin: 0 0.1em;
+  box-shadow: 0 2px 8px rgba(251,136,163,0.10);
+  display: inline-block;
+}
+.hero-modern .hero-gradient-content p {
+  color: #fff;
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+.hero-modern .hero-gradient-content .btn-modern {
+  background: #006fc7;
+  color: #fff;
+  border-radius: 999px;
+  padding: 0.7em 2em;
+  font-weight: bold;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 12px rgba(8,160,87,0.18);
+  transition: background 0.2s, box-shadow 0.2s, transform 0.15s;
+  font-size: 1.1rem;
+  text-decoration: none;
+  display: inline-block;
+}
+.hero-modern .hero-gradient-content .btn-modern:hover {
+  background: $deep-cerise;
+  color: #fff;
+  box-shadow: 0 6px 24px rgba(0,111,199,0.18);
+  transform: scale(1.06);
+  border-color: #fff;
+}
+@media (max-width: 900px) {
+  .hero-modern .hero-gradient-content {
+
+    left: 1.5rem;
+    right: 1.5rem;
+    margin: 0 auto;
+    transform: none !important;
+    padding: 1rem 0.5rem 0.7rem 0.5rem;
+    bottom: 1.5rem;
+    box-sizing: border-box;
+  }
+  .hero-modern .hero-gradient-content h1 {
+    // font-size: 2.1rem;
+  }
+  .hero-modern .hero-gradient-content p {
+    // font-size: 0.95rem;
+  }
+}
+@media (max-width: 700px) {
+  .hero-modern .hero-gradient-content {
+ 
+    left: 1.5rem;
+    right: 1.5rem;
+    margin: 0 auto;
+    transform: none;
+    padding: 1rem 0.5rem 0.7rem 0.5rem;
+    bottom: 1.5rem;
+    box-sizing: border-box;
+  }
+  .hero-modern .hero-gradient-content h1 {
+    // font-size: 1.1rem;
+  }
+  .hero-modern .hero-gradient-content p {
+    // font-size: 0.95rem;
+  }
 }

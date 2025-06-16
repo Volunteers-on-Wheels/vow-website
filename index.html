@@ -7,27 +7,19 @@ background: '/img/bg-index.jpg'
 <!-- Home Intro
 ================================================== -->
 {% if page.url == "/" %} 
-<div class="rounded mb-5 hero" style="
-  background-image: url('{{site.baseurl}}/assets/images/two-vow-vans.jpg');
-  background-size: cover;
-  background-position: center;
-">
-  <div class=" align-items-center justify-content-between">
-    <div class="col-md-6" id="hero-left">
-      <span class="font-weight-bold mb-4 serif-font" id="hero-lead">We deliver <br/>essential supplies <br/>to people who need it most.</span>
-      <p> </p>
-      <p class="lead mb-4" id="hero-subtitle" >We are a team of volunteers who distribute food and other supplies to over 30 food banks and up to 20,000 people every week*.</p>
-      <a href="{{site.baseurl}}/about" class="btn btn-outline-light text-white px-5 btn-lg">Read more</a>
-    </div>
-    <div class="col-md-6 text-right pl-0 pl-lg-4">
-      <!-- <img class="intro" height="500" src="{{site.baseurl}}/assets/images/vow-tshirts full.jpeg">      -->
-    </div>
+<section class="hero-modern">
+  <div class="hero-bg"></div>
+  <div class="hero-gradient-content">
+    <h1>
+      We deliver <span class="highlight">essential supplies</span><br>
+      to people who need it most.
+    </h1>
+    <p>
+      We are a team of volunteers who distribute food and other supplies to over 30 food banks and up to 20,000 people every week.
+    </p>
+    <a href="{{site.baseurl}}/about" class="btn-modern">Read more</a>
   </div>
-
-
-<!--  -->
-
-</div>
+</section>
 {% endif %}
 
 
