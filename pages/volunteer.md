@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  "Volunteer with us!"
-permalink: /volunteer
-
+layout: page
+title: "Volunteer with us!"
+permalink: "/volunteer/"
 image: assets/images/thumbs_up.jpg
+featured: true
+featured_order: 1
+excerpt: "We're always on the look out for new volunteers to join our team and help make our critical deliveries and collections."
 ---
 We're always on the look out for new volunteers to join our team and help make our critical deliveries and collections. 
 
@@ -21,7 +23,4 @@ We aim to send each driver with an additional volunteer to support with loading 
 ### How often do you need us to help?
 We're very flexible - there's no minimum time commitment. Some of our volunteers help once or twice per week, others help on an occasional basis. It's really up to you - we're very grateful for any support you're able to offer. All we ask is that you can commit to a full day when you are able to volunteer.
 
-
-If you'd like to hear more about volunteering with VoW, please <a href="{{site.baseurl}}/contact">get in touch</a>!
-
-
+If you'd like to hear more about volunteering with VoW, please <a href="{{site.baseurl}}/contact">get in touch</a>! 

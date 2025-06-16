@@ -1,0 +1,11 @@
+<!-- begin page -->
+<div class="card">
+    <a href="{{ page.url | absolute_url }}">
+        {% if page.image %} <img class="rounded mb-4" style="height:10em; width: 100%; object-fit: cover;" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}"> {% endif %}
+    </a>
+    <div class="card-block">
+        <h2 class="card-title h4 serif-font"><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></h2>
+        <p class="card-text text-muted">{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ page.content | strip_html | truncatewords:35 }}{% endif %}</p>
+    </div>
+</div>
+<!-- end page --> 

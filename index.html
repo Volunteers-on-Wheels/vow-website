@@ -22,19 +22,15 @@ background: '/img/bg-index.jpg'
 </section>
 {% endif %}
 
-
-
 <!-- Featured
 ================================================== -->
 <section class="row">
-  {% for post in site.posts %}
-      {% if post.featured == true %}
-          <div class="col-md-4 mb-5">
-          {% include postbox.html %}
-          </div>
-      {% endif %}
+  {% assign featured_pages = site.pages | where: "featured", true | sort: "featured_order" %}
+  {% for page in featured_pages %}
+      <div class="col-md-4 mb-5">
+      {% include pagebox.html %}
+      </div>
   {% endfor %}
-  </div>
 </section>
 
 <!-- Posts List with Sidebar (except featured)
@@ -60,6 +56,4 @@ background: '/img/bg-index.jpg'
 <div class="col-sm-12 text-right">
   <p class = "asterisk"> * as estimated by the food banks in 2021</p> 
 </div>
-  
-  
 </section>
