@@ -132,3 +132,24 @@ body {}
         box-shadow: 0 4px 15px rgba(13, 110, 253, 0.3);
     }
 }
+
+/* Mobile tap fix - prevent white background on touch */
+@media (max-width: 768px) {
+    .btn-donation-gradient:active,
+    .btn-donation-gradient:focus {
+        background: linear-gradient(135deg, #0d6efd 0%, #0056b3 100%) !important;
+        color: white !important;
+        -webkit-tap-highlight-color: transparent;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    .btn-donation-gradient:active::before,
+    .btn-donation-gradient:focus::before {
+        display: none;
+    }
+}
