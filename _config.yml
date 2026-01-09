@@ -24,22 +24,34 @@ ganalytics: G-CB78JLNGJP
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  peter:
+    name: Peter Phillips
+    display_name: Peter Phillips
+    avatar: 'assets/images/peter-phillips.jpeg'
+    email: adamr@volunteersonwheels.org.uk
+    web: https://www.volunteersonwheels.org.uk
+    description: "Founder and chair of trustees of Volunteers on Wheels. Peter is a dedicated philanthropist with a heart for giving back. A retired chartered surveyor, he brings a wealth of experience from serving as a trustee for several other charities."
+  marcus:
+    name: Marcus Ardeman
+    display_name: Marcus Ardeman
+    avatar: 'assets/images/marcus-ardeman.jpeg'
+    email: adamr@volunteersonwheels.org.uk
+    web: https://www.volunteersonwheels.org.uk
+    description: "A philanthropist since his teenage years, Marcus has always been passionate about giving back to his community. He is a founding member of Volunteers on Wheels and brings a wealth of experience, dedication, and passion to our team."
+  mary:
+    name: Mary McDonagh
+    display_name: Mary McDonagh
+    avatar: 'assets/images/mary-mcdonagh.jpeg'
+    email: adamr@volunteersonwheels.org.uk
+    web: https://www.volunteersonwheels.org.uk
+    description: "Mary's journey began during pandemic furlough, leading to years of hands-on experience with food banks and vulnerable communities. Her practical insights are invaluable to our operations."
+  gary:
+    name: Gary Weinstein
+    display_name: Gary Weinstein
+    avatar: 'assets/images/gary-weinstein.jpeg'
+    email: adamr@volunteersonwheels.org.uk
+    web: https://www.volunteersonwheels.org.uk
+    description: "A lifelong community volunteer, Gary brings experience from synagogue leadership and the Ambulance Wish Foundation. His dedication to helping others spans decades."
 
 # Social
 social:
