@@ -1,0 +1,47 @@
+backend:
+  name: github
+  repo: volunteersonwheels/vow-website # Replace with your actual GitHub org/repo
+  branch: main
+  base_url: https://api.netlify.com # Required for Netlify's GitHub OAuth
+  auth_endpoint: auth # Required for Netlify's GitHub OAuth
+
+# Use Netlify's Large Media service for media files
+media_folder: "assets/images/news" # Media files will be stored in the repo under assets/images/news
+public_folder: "/assets/images/news" # The src attribute for uploaded media will begin with /assets/images/news
+
+# Publish mode
+publish_mode: editorial_workflow # Enable editorial workflow (draft/review/publish)
+
+# Collections define the structure for different content types
+collections:
+  - name: "news"
+    label: "News Articles"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Excerpt", name: "excerpt", widget: "text", required: true, hint: "Brief summary (max 160 characters)", pattern: ['^.{1,160}$', "Must be 160 characters or less"]}
+      - {label: "Featured Image", name: "image", widget: "image", required: true, hint: "Recommended size: 1200x630px"}
+      - {label: "Publish Date", name: "date", widget: "datetime", required: true}
+      - {label: "Author", name: "author", widget: "select", required: true, options: ["peter", "marcus", "mary", "gary"], default: "peter"}
+      - {label: "Categories", name: "categories", widget: "list", required: false, hint: "Add relevant categories (e.g., Fundraising, Community, Events)"}
+      - {label: "Featured Article", name: "featured", widget: "boolean", default: false, required: false, hint: "Display prominently on homepage"}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
+  
+  # Allow editing of site pages
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "pages/about.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "hidden"}
+          - {label: "Featured Image", name: "image", widget: "image"}
+          - {label: "Body", name: "body", widget: "markdown"}
